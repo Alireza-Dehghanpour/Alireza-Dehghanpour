@@ -64,8 +64,7 @@ Worked with Landsat, ASTER, PALSAR, CryoSat-2, and gravity datasets
 ## 📫 Let's Connect
 
 - ✉️ Email: alireza.dehghanpour@gmail.com
-- 💼 Always open to research and engineering collaborations
-
+- 💼 Open to industry collaborations, research partnerships, and engineering roles.	
 ---
 
 Thank you for visiting!
