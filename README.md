@@ -1,6 +1,5 @@
-readme_with_typing_svg = """[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=Hi%2C+I'm+Alireza+Dehghanpour!;ML+Engineer+%7C+Remote+Sensing+Researcher+%7C+PhD+Candidate)](https://github.com/Alireza-Dehghanpour)
+"""[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=Hi%2C+I'm+Alireza+Dehghanpour!;ML+Engineer+%7C+Remote+Sensing+Researcher+%7C+PhD+Candidate)](https://github.com/Alireza-Dehghanpour)
 
-<— add this empty line
 
 Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote sensing specialist currently completing my PhD in Computer Science at the University of Bremen, with a focus on AI-driven analysis of satellite data.
 
