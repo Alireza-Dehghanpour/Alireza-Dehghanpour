@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote
 
 ## 🔬 About Me
 
-- 🎓 Master’s degrees: Artificial Intelligence & Robotics (GPA: A+) and Remote Sensing (GPA: 3.8/4)
+- 🎓 Master’s degrees: Artificial Intelligence & Robotics (GPA: A+) and Remote Sensing (GPA: A)
 - 🛰️ PhD Candidate at University of Bremen (AI for satellite data) 
 - 🤖 Actively working on applied machine learning and deep learning, with projects in medical AI, satellite remote sensing, and 3D reconstruction from point clouds
 
@@ -63,7 +63,7 @@ Worked with Landsat, ASTER, PALSAR, CryoSat-2, and gravity datasets
 
 ## 📫 Let's Connect
 
-- ✉️ Email: alireza.dehghanpour@gmail.com
+- ✉️ Email: a.r.dehghanpour@gmail.com
 - 💼 Open to industry collaborations, research partnerships, and engineering roles.	
 ---
 
