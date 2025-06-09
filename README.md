@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=Hi%2C+I'm+Alireza+Dehghanpour!;ML+Engineer+%7C+Remote+Sensing+Researcher+%7C+PhD+Candidate)](https://github.com/Alireza-Dehghanpour)
 
 
-Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote sensing specialist currently completing my PhD in Computer Science at the University of Bremen, with a focus on AI-driven analysis of satellite data.
+Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote sensing specialist.
 
 ---
 
@@ -10,7 +10,6 @@ Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote
 - 🎓 Master’s degrees: Artificial Intelligence & Robotics (GPA: A+) and Remote Sensing (GPA: 3.8/4)
 - 🛰️ PhD Candidate at University of Bremen (AI for satellite data) 
 - 🤖 Actively working on applied machine learning and deep learning, with projects in medical AI, satellite remote sensing, and 3D reconstruction from point clouds
-- 💼 Researcher at the Alfred Wegener Institute (AWI), Germany
 
 ---
 
