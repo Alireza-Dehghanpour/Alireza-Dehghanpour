@@ -55,17 +55,10 @@ Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote
 **Languages:** Python, Bash, SQL (basic), Git (version control)  
 **ML/DL Frameworks:** Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Keras  
 Experienced with supervised/unsupervised learning, CNNs, RNNs, GANs, and transfer learning
+
 **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn  
 **Remote Sensing & Geospatial Tools:** GDAL, Rasterio, PyProj, QGIS, SNAP  
 Worked with Landsat, ASTER, PALSAR, CryoSat-2, and gravity datasets
-
----
-
-## 📄 Featured Cover Letter Topics
-
-- Doctoral researcher (AI applications in satellite data analysis)
-- ML roles in clinical, geospatial, and environmental domains
-- Demonstrated experience in interdisciplinary research (AI + Remote Sensing)
 
 ---
 
