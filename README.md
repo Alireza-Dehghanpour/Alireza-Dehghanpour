@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote
 ## 🔬 About Me
 
 - 🎓 Master’s degrees: Artificial Intelligence & Robotics (GPA: A+) and Remote Sensing (GPA: A)
-- 🛰️ PhD Candidate at University of Bremen (AI for satellite data) 
+- 🛰️ PhD at University of Bremen (AI for satellite data) 
 - 🤖 Actively working on applied machine learning and deep learning, with projects in medical AI, satellite data, and 3D reconstruction from point clouds
 
 ---
