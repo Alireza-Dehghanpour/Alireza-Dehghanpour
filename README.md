@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a machine learning engineer, AI researcher, and remote
 ## 🔬 About Me
 
 - 🎓 Master’s degrees in **Artificial Intelligence & Robotics** and **Remote Sensing**  
-- 🛰️ PhD candidate in **Computer Engineering** at the University of Bremen (thesis submitted) – focus on **AI-driven modeling of CryoSat-2 altimetry and point-cloud-based DEM reconstruction**  
+- 🛰️ PhD candidate in **Computer Engineering** at the University of Bremen – focus on **AI-driven modeling of CryoSat-2 altimetry and point-cloud-based DEM reconstruction**  
 - 🧊 Research collaborations with the **Alfred Wegener Institute (AWI)** and the **Computer Graphics & Virtual Reality (CGVR) at the University of Bremen** on deep learning 
 - 🤖 Experience across **deep learning, geospatial AI, and applied ML** in medical, environmental, and scientific applications  
 
