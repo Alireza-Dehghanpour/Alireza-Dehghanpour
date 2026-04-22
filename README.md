@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=800&lines=Hi%2C+I'm+Alireza+Dehghanpour!;computer+engineer+Remote+Sensing+%26+AI+Researcher+%7C+%7C+DL+Engineer)](https://github.com/Alireza-Dehghanpour)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=800&lines=Hi%2C+I'm+Alireza+Dehghanpour!;Computer+Engineer+%7C+Remote+Sensing+%26+AI+Researcher+%7C+Deep+Learning+Engineer)](https://github.com/Alireza-Dehghanpour)
 Welcome to my GitHub! I'm a computer engineer, AI and machine learning researcher, and remote sensing specialist.
 
 ---
